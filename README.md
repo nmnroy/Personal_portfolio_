@@ -1,65 +1,62 @@
-# My Portfolio Website - Overview 🚀
+# Naman Roy - Personal Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+A sleek, interactive, and highly customizable personal portfolio website built with React, Vite, and Three.js. This portfolio showcases my journey as a Computer Science & Data Science undergraduate and a Full-Stack/AI Developer, highlighting the products I've shipped.
+
+## 🚀 Features
+
+- **Interactive 3D Tech Stack**: A physics-based, interactive 3D visualization of my technology stack (Python, Git, React, Next.js, FastAPI, etc.) using `@react-three/fiber` and `@react-three/rapier`.
+- **Smooth Animations**: High-performance scrolling animations powered by GSAP (`ScrollSmoother`, `ScrollTrigger`).
+- **Responsive Design**: Beautiful, responsive layout with modern glassmorphism UI principles.
+- **Projects Showcase**: Detailed breakdown of my featured work, including live demos and GitHub links.
+
+## 💻 Tech Stack
+
+- **Frontend Framework**: React, TypeScript, Vite
+- **Styling**: Vanilla CSS with modern UI/UX design (glassmorphism, dark mode)
+- **3D & Physics**: Three.js, React Three Fiber, React Three Rapier
+- **Animations**: GSAP (GreenSock Animation Platform)
+- **Icons**: React Icons, Custom SVGs
+
+## 🛠️ Featured Projects
+
+1. **FMCG/CPG RFP Automation Agent** 
+   - *AI Agent* built with Python, LangChain, ChromaDB, Pandas, Streamlit, RAG, and PostgreSQL.
+2. **AI-Powered Interview Prep Ecosystem** 
+   - *Full-Stack App* built with Next.js, React Native, TypeScript, Supabase, PostgreSQL, Prisma, and the Gemini API.
+3. **BlogzzUP — AI SEO Engine** 
+   - *SaaS product* built with React, Firebase, JavaScript, and LLM Workflows.
+
+## ⚙️ Running Locally
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/nmnroy/Personal_portfolio_.git
+   cd Personal_portfolio_
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
+
+## 📬 Contact
+
+Feel free to reach out to me!
+- **Email**: [namanroy0044@gmail.com](mailto:namanroy0044@gmail.com)
+- **LinkedIn**: [naman-roy04](https://www.linkedin.com/in/naman-roy04/)
+- **GitHub**: [@nmnroy](https://github.com/nmnroy)
 
 ---
-
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
-
----
-
-## 🛠️ Instructions
-
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
-
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
-
----
-
-## ⚙️ Tech Stack
-
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
-
----
-
-## 🎨 Assets Usage
-
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
-
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
-
-## 📄 License
-
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
-
-See the LICENSE file for full details
-
+*Designed and Developed by Naman Roy.*
